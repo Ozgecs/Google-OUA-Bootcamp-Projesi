@@ -16,7 +16,7 @@ Takım 120
 
 ## Ürün Açıklaması
 
-- 
+- https://www.youtube.com/watch?v=XL5as-w7Q1g&ab_channel=mediocregamestudio
 
 ## Ürün Özellikleri
 
