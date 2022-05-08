@@ -16,7 +16,7 @@ Takım 120
 
 ## Ürün Açıklaması
 
-- https://www.youtube.com/watch?v=XL5as-w7Q1g&ab_channel=mediocregamestudio
+- Tetris Crush, sürreal bir 3D ortamda nesnelerin bulundukları konumda rotasyonları değiştirilerek cam duvardaki farklı boşluklardan geçirilmesi mantığına dayanan bir oyundur.
 
 ## Ürün Özellikleri
 
@@ -35,11 +35,7 @@ Takım 120
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
-
----
-
-
+[Trello Backlog Board] https://trello.com/b/ZwkRYplY/120
 
 
 # Sprint 1
@@ -52,7 +48,7 @@ Takım 120
 
 - **Backlog düzeni ve Story seçimleri**:
 
-- **Daily Scrum**:
+- **Daily Scrum**: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
@@ -66,8 +62,6 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
 
--**Diğer Notlar**:
-- N/A
 
 ---
 
