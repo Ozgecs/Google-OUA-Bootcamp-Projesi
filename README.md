@@ -20,14 +20,14 @@ Takım 120
 
 ## Ürün Özellikleri
 
-- 
-- 
+- Mobil cihazların dokunmatik özelliğini kullanarak sadece sağa yada sola parmak kaydırarak oynanabilecek bir oyun.
+- Herkesin algılayabileceği sadelikte tetris benzeri şekiller içerir.
 - 
 - 
 
 ## Hedef Kitle
 
-- 
+- 3 yaşından büyük mobil oyuncular.
 - 
 - 
 - 
