@@ -33,34 +33,26 @@ Takım 120
 - 
 - 
 
-## Product Backlog URL
-
-[Trello Backlog Board] https://trello.com/b/ZwkRYplY/120
+[Trello Backlog Board] https://trello.com/b/ZwkRYplY/120 
 
 
 # Sprint 1
 
 - **Sprint Notları**: 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**:
+- **Daily Scrum**: [Sprint 1 Daily Scrum Chats](https://github.com/Ozgecs/Google-OUA-Bootcamp-Projesi/blob/main/Sprint1%20Daily%20Meeting.docx)
 
-- **Backlog düzeni ve Story seçimleri**:
-
-- **Daily Scrum**: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
-- **Sprint board update**: Sprint board screenshotları: 
-
-- **Ürün Durumu**:
+- **Ürün Durumu**: Yapım Aşamasında 
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+
+Alınan kararlar:
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - 
+  - 
+  -  
 
 
 ---
