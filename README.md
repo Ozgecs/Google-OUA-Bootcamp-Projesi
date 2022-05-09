@@ -33,6 +33,8 @@ Takım 120
 
 [Trello Backlog Board] https://trello.com/b/ZwkRYplY/120 
 
+Product Backlog https://docs.google.com/spreadsheets/d/1resrekGgWuejXJQVP9lK7ac1_i5EQAx8/edit?usp=sharing&ouid=109146302351420549271&rtpof=true&sd=true
+
 
 # Sprint 1
 
