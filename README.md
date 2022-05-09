@@ -27,11 +27,9 @@ Takım 120
 
 ## Hedef Kitle
 
-- Mobil oyun severler.
-- 
-- 
-- 
-- 
+- Mobil oyun severler
+- Skor yapmaya dayalı oyunları sevenler
+- 5 yaş ve üzeri kullanıcı kitlesi.
 
 [Trello Backlog Board] https://trello.com/b/ZwkRYplY/120 
 
@@ -45,16 +43,15 @@ Takım 120
 
 - **Ürün Durumu**: Yapım Aşamasında 
 
-- **Sprint Review**: 
+- **Sprint Review**: Oyunun 3D tasarımlarına başlanmıştır ve farklı level tasarımları için uygun dökümanlar toplanmaya ve paylaşılmaya başlanmıştır. Oyunun sıkıcı olmaması ve sürekliliği açısından endless tarzı uygun görülmemiştir. Oyuna katılacak ekstra özellikler belirlenmeye başlanmıştır.
 
-Alınan kararlar:
+Alınan kararlar: 
 
 - **Sprint Retrospective:**
-  - 
-  - 
-  -  
 
-
+  - Proje için developerların ayırdığı süre arttırılmalı. 
+  - Aksi bir durum söz konusu olmadığı sürece proje içindeki zamanlama dağılımına kesin olarak uyulmalı.
+  - Oyun yapımı aşamasında süreçteki değişikliklerin raporlanması kararları alınmıştır.
 ---
 
 # Sprint 2
