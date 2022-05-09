@@ -20,14 +20,14 @@ Takım 120
 
 ## Ürün Özellikleri
 
-- Mobil cihazların dokunmatik özelliğini kullanarak sadece sağa yada sola parmak kaydırarak oynanabilecek bir oyun.
-- Herkesin algılayabileceği sadelikte tetris benzeri şekiller içerir.
-- 
-- 
+- Oyuncu, oyundaki ilerleyişine bağlı olarak farklı tetris itemları elde edebilir.
+- Oyuncunun ilgisini çekecek fakat gözünü yormayacak efektler ve şekiller barındırır.
+- Mobil cihaz oyunudur, kullanıcının parmak koordinasyonuna bağlı olarak oyunun seyri değişir.
+- İnsanların boş zamanlarında stres atmak için oynayabilecekleri 3D bir oyundur.
 
 ## Hedef Kitle
 
-- 3 yaşından büyük mobil oyuncular.
+- Mobil oyun severler.
 - 
 - 
 - 
