@@ -36,7 +36,10 @@ Takım 120
 
 # Sprint 1
 
-- **Sprint Notları**: 
+- **Sprint Notları**: Proje süremiz boyunca Trello kullanacağız. Çalışma alanmızı ToDo/Doing/Done olarak 3 kategoride gruplandırdık. İtemlara basıldığı zaman başlıkların detayları ve içerikleri görüntülenebiliyor. 
+
+
+Trello Screenshot: 
 
 
 - **Daily Scrum**: 2 hafta boyunca olan discord ve whatsapp konuşmalarımız ve bilgi alışverişimiz tarafımızdan paylaşılmaktadır --> [Sprint 1 Daily Scrum Chats](https://github.com/Ozgecs/Google-OUA-Bootcamp-Projesi/blob/main/Sprint1%20Daily%20Meeting.docx)
