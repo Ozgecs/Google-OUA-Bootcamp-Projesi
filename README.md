@@ -39,7 +39,7 @@ Takım 120
 - **Sprint Notları**: 
 
 
-- **Daily Scrum**: [Sprint 1 Daily Scrum Chats](https://github.com/Ozgecs/Google-OUA-Bootcamp-Projesi/blob/main/Sprint1%20Daily%20Meeting.docx)
+- **Daily Scrum**: 2 hafta boyunca olan discord ve whatsapp konuşmalarımız ve bilgi alışverişimiz tarafımızdan paylaşılmaktadır --> [Sprint 1 Daily Scrum Chats](https://github.com/Ozgecs/Google-OUA-Bootcamp-Projesi/blob/main/Sprint1%20Daily%20Meeting.docx)
 
 - **Ürün Durumu**: Yapım Aşamasında 
 
