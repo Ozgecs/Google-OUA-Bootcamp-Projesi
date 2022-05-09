@@ -41,6 +41,8 @@ Takım 120
 
 Trello Screenshot: 
 
+(https://github.com/Ozgecs/Google-OUA-Bootcamp-Projesi/blob/main/trelloscreenshot.PNG)
+
 
 - **Daily Scrum**: 2 hafta boyunca olan discord ve whatsapp konuşmalarımız ve bilgi alışverişimiz tarafımızdan paylaşılmaktadır --> [Sprint 1 Daily Scrum Chats](https://github.com/Ozgecs/Google-OUA-Bootcamp-Projesi/blob/main/Sprint1%20Daily%20Meeting.docx)
 
