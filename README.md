@@ -49,6 +49,8 @@ Trello Screenshot:
 
 - **Sprint Review**: Oyunun 3D tasarımlarına başlanmıştır ve farklı level tasarımları için uygun dökümanlar toplanmaya ve paylaşılmaya başlanmıştır. Oyunun sıkıcı olmaması ve sürekliliği açısından endless tarzı uygun görülmemiştir. Oyuna katılacak ekstra özellikler belirlenmeye başlanmıştır.
 
+- **Sprint'te tamamlanması tahmin edilen puan**: 34
+
 Alınan kararlar: 
 
 - **Sprint Retrospective:**
