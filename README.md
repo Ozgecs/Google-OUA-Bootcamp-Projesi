@@ -62,7 +62,26 @@ Alınan kararlar:
 
 # Sprint 2
 
+- **Sprint Notları**: Trello'daki görevleri 5 kategoriye böldük: 3D Art, Game Design, Game Development, UI/UX ve Project Management. Var olan bütün işler bu 5 kategoriden birisine ait. Takımdaki her bir üye de en az bir kategoriden sorumlu. Unity'de oyun geliştirme sürecine başlandı.
 
+Trello Screenshot:
+<img width="948" alt="Screen Shot 2022-05-23 at 19 45 05" src="https://user-images.githubusercontent.com/51506260/169868490-f4dc1aae-7545-482d-b720-8aff432f11bb.png">
+
+- **Daily Scrum**: 2 hafta boyunca olan discord ve whatsapp konuşmalarımız ve bilgi alışverişimiz tarafımızdan paylaşılmaktadır --> 
+
+- **Ürün Durumu**: Yapım Aşamasında 
+
+- **Sprint Review**: Oyunun 3D tasarımlarına başlanmıştır ve farklı level tasarımları için uygun dökümanlar toplanmaya ve paylaşılmaya başlanmıştır. Oyun geliştirme sürecine devam edilmektedir. Oyuna katılacak ekstra özellikler üzerine çalışılmaktadır.
+
+- **Sprint'te tamamlanması tahmin edilen puan**: 55
+
+Alınan kararlar: 
+
+- **Sprint Retrospective:**
+
+  - 3D tasarım sürecini hızlandırmalıyız.
+  - Game development sürecinde yaşanan sorunları beraber çalışarak daha hızlı çözmeliyiz.
+ 
 ---
 
 # Sprint 3
