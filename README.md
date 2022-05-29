@@ -8,7 +8,7 @@ Takım 120
 
 - Gizem Dayıcık: Product Owner
 - Burak Karaca: Scrum Master
-- Nebil Erşan Elcenabi, Özge Şahin: Team Member/Developer
+- Nebil Erşan Elcenabi, Özge Şahin, Berkan Nihat Yıldız: Team Member/Developer
 
 ## Ürün İsmi
 
