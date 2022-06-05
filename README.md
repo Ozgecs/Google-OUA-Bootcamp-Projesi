@@ -88,7 +88,7 @@ Alınan kararlar:
 
 ---
 
-- **Sprint Notları**: Projede jürinin puanlama için beklediği temel başlıklar bitirildi. Sprint sonuna yetişmeyen ekstra puan başlıkları son teslim tarihi olan 8 Haziran'a kadar eklenecek.
+- **Sprint Notları**: Projede jürinin puanlama için beklediği temel başlıklar bitirildi. Sprint sonuna yetişmeyen ekstra puan başlıkları son teslim tarihi olan 8 Haziran'a kadar eklenecek. Firebase eklenecek. Teslim tarihine kadar Level Design çalışılabilir. Bu süreçte bulunan buglar düzeltilecek.
 
 Trello Screenshot: 
 <img width="946" alt="Trello" src="https://user-images.githubusercontent.com/51506260/172066975-a35ea99e-42cb-499d-991b-46632252d4ed.png">
@@ -106,7 +106,6 @@ Alınan kararlar:
 
 - **Sprint Retrospective:**
 
-  - Teslim tarihine kadar Level Design çalışılabilir. 
-  - Firebase eklenecek.
-  - Bu süreçte bulunan buglar düzeltilecek.
+  - Game development sürecinde yaşanan sorunları beraber çalışarak daha hızlı çözmeliyiz.
+
 ---
