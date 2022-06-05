@@ -87,3 +87,26 @@ Alınan kararlar:
 # Sprint 3
 
 ---
+
+- **Sprint Notları**: Projede jürinin puanlama için beklediği temel başlıklar bitirildi. Sprint sonuna yetişmeyen ekstra puan başlıkları son teslim tarihi olan 8 Haziran'a kadar eklenecek.
+
+Trello Screenshot: 
+<img width="946" alt="Trello" src="https://user-images.githubusercontent.com/51506260/172066975-a35ea99e-42cb-499d-991b-46632252d4ed.png">
+
+
+- **Daily Scrum**: 2 hafta boyunca olan discord ve whatsapp konuşmalarımız ve bilgi alışverişimiz tarafımızdan paylaşılmaktadır --> [Sprint 3 Daily Scrum Chats](https://github.com/Ozgecs/Google-OUA-Bootcamp-Projesi/blob/main/Sprint%203%20Daily%20Scrum%20Chats.docx)
+
+- **Ürün Durumu**: Minimum gerekli olan seviyede oyun bitirildi, son teslim tarihine kadar eklemeler yapılacak.
+
+- **Sprint Review**: Ürün için gerekli olan minimum görev tamamlanmıştır. Teslim tarihine kadar ekstra puan veren kriterler de eklenecek, Firebase gibi.
+
+- **Sprint'te tamamlanması tahmin edilen puan**: 34
+
+Alınan kararlar: 
+
+- **Sprint Retrospective:**
+
+  - Teslim tarihine kadar Level Design çalışılabilir. 
+  - Firebase eklenecek.
+  - Bu süreçte bulunan buglar düzeltilecek.
+---
