@@ -6,13 +6,14 @@ public class spawner : MonoBehaviour
 {
     public GameObject[] panels;
     public GameObject[] objeler;
-    public GameObject[] winpanels;
+    public GameObject activeObj;
+    
     public int index;
     public int maxint;
     public Transform spawnNoktasý;
     public Transform objspawnNoktasý;
     public static spawner instance;
-    public Transform spawnNoktasýobjdest;
+  
 
     // Start is called before the first frame update
     public void Awake()
@@ -34,26 +35,9 @@ public class spawner : MonoBehaviour
         Spawn2();
         maxint = panels.Length;
 
-        
-
+      
     }
-    //void Spawn()
-    //{
-    //    //for (int i =0; i < 1 ; i++)
-    //    //{
-    //    //    Instantiate(panels[i], spawnNoktasý.position, Quaternion.identity);
 
-    //    //}
-    //    Instantiate(panels[index], spawnNoktasý.position, Quaternion.identity);
-    //    index++;
-    //    if(index==maxint)
-    //    {
-    //        index = 0;
-    //    }
-
-
-
-    //}
     public void Spawn2()
     {
         //for (int i =0; i < 1 ; i++)
@@ -62,7 +46,7 @@ public class spawner : MonoBehaviour
 
         //}
         Instantiate(panels[index], spawnNoktasý.position, Quaternion.identity);
-        Instantiate(objeler[index], objspawnNoktasý.position, Quaternion.identity);
+        activeObj= Instantiate(objeler[index], objspawnNoktasý.position, Quaternion.identity);
         
         index++;
         if (index == maxint)
